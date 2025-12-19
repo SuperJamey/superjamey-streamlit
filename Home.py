@@ -43,10 +43,10 @@ with col2:
     st.markdown("[![Website](https://img.shields.io/badge/Website-superjamey.com-green?style=for-the-badge)](https://superjamey.com)")
     
 with col3:
-    st.markdown("[![X](https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x)](https://x.com/YOUR_HANDLE)")
+    st.markdown("[![X](https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x)](https://x.com/_JLaMar)")
     
 with col4:
-    st.markdown("[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)")
+    st.markdown("[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jameylamar4805)")
 
 # Featured Projects
 st.markdown("---")
